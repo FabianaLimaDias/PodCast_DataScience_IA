@@ -22,7 +22,7 @@ Para demonnstrar habilidades adquiridas em Inteligência Artificial.
 
 ## 🔗 Acesso ao Projeto
 
-Você pode acessar os episódios do podcast diretamente neste repositório, na pasta `episodios`.
+Você pode acessar os episódios do podcast diretamente neste repositório, na pasta `episódios`.
 
 ## ⚛️ Tecnologias Utilizadas
 
