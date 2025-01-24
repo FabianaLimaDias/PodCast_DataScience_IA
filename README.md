@@ -22,7 +22,8 @@ Para demonnstrar habilidades adquiridas em Inteligência Artificial.
 
 ## 🔗 Acesso ao Projeto
 
-Você pode acessar os episódios do podcast diretamente neste repositório, na pasta `episódios`.
+Você pode acessar os episódios do podcast diretamente neste repositório, na pasta `episódios` .
+No canto superior direito, clique no botão "Download" ou clique com o botão direito no botão e selecione "Copiar link", para escutar o episódio.
 
 ## ⚛️ Tecnologias Utilizadas
 
