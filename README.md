@@ -1,6 +1,6 @@
 # Descodificando Algoritmos
 
-<img src="assets/capa.jpg" alt="Capa do Podcast" width="400"/>
+<img src="assets/capa.jpg" alt="Capa do Podcast" width="250"/>
 
 ## 🔍 Índice
 
